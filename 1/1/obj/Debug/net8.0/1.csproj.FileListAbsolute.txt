@@ -1,0 +1,14 @@
+C:\Users\mohli\OneDrive\Desktop\C#_uppgift_1-5\1\1\bin\Debug\net8.0\1.exe
+C:\Users\mohli\OneDrive\Desktop\C#_uppgift_1-5\1\1\bin\Debug\net8.0\1.deps.json
+C:\Users\mohli\OneDrive\Desktop\C#_uppgift_1-5\1\1\bin\Debug\net8.0\1.runtimeconfig.json
+C:\Users\mohli\OneDrive\Desktop\C#_uppgift_1-5\1\1\bin\Debug\net8.0\1.dll
+C:\Users\mohli\OneDrive\Desktop\C#_uppgift_1-5\1\1\bin\Debug\net8.0\1.pdb
+C:\Users\mohli\OneDrive\Desktop\C#_uppgift_1-5\1\1\obj\Debug\net8.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohli\OneDrive\Desktop\C#_uppgift_1-5\1\1\obj\Debug\net8.0\1.AssemblyInfoInputs.cache
+C:\Users\mohli\OneDrive\Desktop\C#_uppgift_1-5\1\1\obj\Debug\net8.0\1.AssemblyInfo.cs
+C:\Users\mohli\OneDrive\Desktop\C#_uppgift_1-5\1\1\obj\Debug\net8.0\1.csproj.CoreCompileInputs.cache
+C:\Users\mohli\OneDrive\Desktop\C#_uppgift_1-5\1\1\obj\Debug\net8.0\1.dll
+C:\Users\mohli\OneDrive\Desktop\C#_uppgift_1-5\1\1\obj\Debug\net8.0\refint\1.dll
+C:\Users\mohli\OneDrive\Desktop\C#_uppgift_1-5\1\1\obj\Debug\net8.0\1.pdb
+C:\Users\mohli\OneDrive\Desktop\C#_uppgift_1-5\1\1\obj\Debug\net8.0\1.genruntimeconfig.cache
+C:\Users\mohli\OneDrive\Desktop\C#_uppgift_1-5\1\1\obj\Debug\net8.0\ref\1.dll
